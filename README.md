@@ -1,7 +1,5 @@
 # Ammar Alinur
 
-<img src="https://github.com/alinurammar/alinurammar/assets/59621105/7698383f-e7c4-4d07-b960-bd94b7b57420)" alt="Ammar Alinur" style="width: 250px; height: auto; border-radius: 50%; float: left;">
-
 👋 Hi there! I'm Ammar Alinur, a passionate software engineer based in New York. 
 
 I graduated in June 2023 from Stanford with a Bachelor's in Computer Science with a concentrations in Systems. I'm a big fan of coding, soccer, education, and standup comedy! I like coding a lot, and I'm looking for more projects to take on and concepts to explore so please feel free to reach out with some cool opportunities [here](mailto:alinurammar@gmail.com)
