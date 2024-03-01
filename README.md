@@ -1,6 +1,6 @@
 # Ammar Alinur
 
-👋 Hi there! I'm Ammar Alinur, a passionate software engineer based in New York. 
+👋 Hi there! I'm Ammar Alinur, a software engineer based in New York. 
 
 I graduated in June 2023 from Stanford with a Bachelor's in Computer Science with a concentrations in Systems. I'm a big fan of coding, soccer, education, and standup comedy! I like coding a lot, and I'm looking for more projects to take on and concepts to explore so please feel free to reach out with some cool opportunities [here](mailto:alinurammar@gmail.com)
  
@@ -10,7 +10,8 @@ PantryPal is an AI-powered platform that generates personalized recipes based on
 
 **Check out the project:**
 - [PantryPal GitHub Repository](https://github.com/alinurammar/recipe-creator)
-- [Live Demo](https://github.com/alinurammar/recipe-creator)
+- [PantryPal Backend Repository](https://github.com/alinurammar/recipe-generator-backend)
+- [Live Demo](https://recipe-generator-frontend-6f5222e90f53.herokuapp.com/)
 
 
 # Work Experience
