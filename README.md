@@ -11,7 +11,7 @@ PantryPal is an AI-powered platform that generates personalized recipes based on
 **Check out the project:**
 - [PantryPal GitHub Repository](https://github.com/alinurammar/recipe-creator)
 - [PantryPal Backend Repository](https://github.com/alinurammar/recipe-generator-backend)
-- [Live Demo](https://recipe-generator-frontend-6f5222e90f53.herokuapp.com/)
+- [Live Demo](https://recipe-creator-pi.vercel.app/about-us)
 
 
 # Work Experience
