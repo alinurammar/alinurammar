@@ -8,10 +8,13 @@ I graduated in June 2023 from Stanford with a Bachelor's in Computer Science wit
 | | Company | Role | Dates | Description |
 | ------- | :--- | :---: | :---- | :---------------- |
 | <img src="https://pbs.twimg.com/profile_images/1484586799921909764/A9yYenz3_400x400.png" style="width: 100px; height: auto;"> | Coinbase | **Software Engineer** | *Sep 2024 - Present* | Working on the Prime Trading Platform! <br>|
-| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wells_Fargo_Bank.svg/1200px-Wells_Fargo_Bank.svg.png" style="width: 100px; height: auto;"> | Wells Fargo | **Software Engineer** | *Jan 2024 - Aug 2024* | Spearheaded critical risk assessment components in Java, collaborating closely with quants on a high-stakes trading desk. <br>|
-| <img src="https://pbs.twimg.com/profile_images/1584637136573272068/tO3cg1LF_400x400.jpg" style="width: 100px; height: auto;"> | Coherent | **Founding Software Engineer** | *Apr 2022 - Jul 2023* | Empowering web3 developers, I increased custom decoding capabilities to cover over 90% through an open-source project. [Check out the project here!](https://github.com/coherentdevs)<br> |
+| <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Wells_Fargo_Bank.svg/1200px-Wells_Fargo_Bank.svg.png" style="width: 100px; height: auto;"> | Wells Fargo | **Software Engineer** | *Jan 2024 - Aug 2024* | Developed risk assessment components for quants on a trading desk. <br>|
+| <img src="https://pbs.twimg.com/profile_images/1584637136573272068/tO3cg1LF_400x400.jpg" style="width: 100px; height: auto;"> | Coherent | **Founding Software Engineer** | *Apr 2022 - Jul 2023* | Made blockchain data human-readable and automate parsing (Decoded ~97% of evm data) [Check it out here!](https://github.com/coherentdevs)<br> |
 
 # Personal Projects
+### Bilal Learning hub
+- [Learning Hub repo (private for mentor privacy)](https://github.com/alinurammar/learning-hub)
+- [Live Demo](bilallearninghub.com)
 ### PantryPal
 - [PantryPal GitHub Repository](https://github.com/alinurammar/recipe-creator)
 - [PantryPal Backend Repository](https://github.com/alinurammar/recipe-generator-backend)
