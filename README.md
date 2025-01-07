@@ -14,7 +14,7 @@ I graduated in June 2023 from Stanford with a Bachelor's in Computer Science wit
 # Personal Projects
 ### Bilal Learning hub
 - [Learning Hub repo (private for mentor privacy)](https://github.com/alinurammar/learning-hub)
-- [Live Demo](bilallearninghub.com)
+- [Live Demo](https://bilallearninghub.com)
 ### PantryPal
 - [PantryPal GitHub Repository](https://github.com/alinurammar/recipe-creator)
 - [PantryPal Backend Repository](https://github.com/alinurammar/recipe-generator-backend)
